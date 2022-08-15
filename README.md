@@ -1,6 +1,6 @@
 # Maratona-Explorer-03
 
-Menu criado durante o evento da RocketSeat.<br>
+Menu criado durante o evento da RocketSeat.  
 Lições aprendidas: Criar um link para o menu e gerar um QRcode do menu.<br><br>
 Link da page que eu criei o QRcode: https://www.qrcode-tiger.com/pt<br>
 Link da page que eu criei o link do menu: https://www.netlify.com/<br>
